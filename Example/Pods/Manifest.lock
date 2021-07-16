@@ -1,0 +1,27 @@
+PODS:
+  - MMKV (1.1.2):
+    - MMKVCore (~> 1.1.2)
+  - MMKVCore (1.1.2)
+  - SpfTestDemo1 (0.0.1):
+    - MMKV (~> 1.1.0)
+
+DEPENDENCIES:
+  - SpfTestDemo1 (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MMKV
+    - MMKVCore
+
+EXTERNAL SOURCES:
+  SpfTestDemo1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MMKV: 319aede3b690572ad00bada5831146c63da3d009
+  MMKVCore: ae976ab3f019a3e4448f884353e0557b324ff136
+  SpfTestDemo1: 29259c93c4b6b74f0b4d4b84ecab1a66e9d81de6
+
+PODFILE CHECKSUM: f2146433fd489216a2b67a1ca7d53f6d4b43e1be
+
+COCOAPODS: 1.10.0
