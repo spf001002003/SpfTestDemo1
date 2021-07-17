@@ -2,7 +2,7 @@ PODS:
   - MMKV (1.1.2):
     - MMKVCore (~> 1.1.2)
   - MMKVCore (1.1.2)
-  - SpfTestDemo1 (0.0.1):
+  - SpfTestDemo1 (0.0.2):
     - MMKV (~> 1.1.0)
 
 DEPENDENCIES:
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   MMKV: 319aede3b690572ad00bada5831146c63da3d009
   MMKVCore: ae976ab3f019a3e4448f884353e0557b324ff136
-  SpfTestDemo1: 29259c93c4b6b74f0b4d4b84ecab1a66e9d81de6
+  SpfTestDemo1: bd6d35fcaf9d23f97a740a12550cab8bb4e4c3ef
 
 PODFILE CHECKSUM: f2146433fd489216a2b67a1ca7d53f6d4b43e1be
 

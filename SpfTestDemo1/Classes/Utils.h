@@ -14,7 +14,6 @@ NS_ASSUME_NONNULL_BEGIN
 @interface Utils : NSObject
 //获取系统状态栏高度
 + (CGFloat)getSystemStatusBarHight;
-+ (CGFloat)getSystemStatusBarHight1;
 + (void)test1;
 @end
 

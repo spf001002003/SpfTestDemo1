@@ -22,12 +22,6 @@
     return statusBarHeight;
 }
 
-+ (CGFloat)getSystemStatusBarHight1 {
-    float statusBarHeight = 0;
-     
-    return statusBarHeight;
-}
-
 + (void)test1 {
     MMKV *mmkv = [MMKV defaultMMKV];
     [mmkv setBool:YES forKey:@"key1"];

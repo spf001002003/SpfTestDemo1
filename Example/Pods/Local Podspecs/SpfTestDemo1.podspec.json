@@ -1,7 +1,7 @@
 {
   "name": "SpfTestDemo1",
-  "version": "0.0.1",
-  "summary": "test Demo1",
+  "version": "0.0.2",
+  "summary": "test Demo2",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/spf001002003/SpfTestDemo1",
   "license": {
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/spf001002003/SpfTestDemo1.git",
-    "tag": "0.0.1"
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "9.0"
